@@ -9,6 +9,6 @@ public class Carro extends Veiculo{
 	
 	@Override
 	public String imprimirDetalhes() {
-		return super.imprimirDetalhes() + "Número de Portas: " + numPortas;
+		return super.imprimirDetalhes() +"Número de Portas: "+ numPortas +"\n";
 	}
 }

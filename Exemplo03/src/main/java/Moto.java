@@ -9,6 +9,6 @@ public class Moto extends Veiculo{
 	
 	@Override
 	public String imprimirDetalhes() {
-		return super.imprimirDetalhes() + "Cilindradaas: "+ cilindradas;
+		return super.imprimirDetalhes() +"Cilindradaas: "+ cilindradas +"\n";
 	}
 }
