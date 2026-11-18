@@ -1,5 +1,9 @@
 # Sistema de Reserva Aérea
 
+## Dupla responsável
+
+Caio Elias Lins de Souza e Gabriel de Sousa.
+
 ## Explicação do Projeto
 
 O projeto é uma aplicação em Java para gerenciar reservas de passagens aéreas de forma centralizada. Ele integra subsistemas de disponibilidade de voos, criação de assentos, cálculo de taxas, processamento de pagamentos e envio de e-mails.
